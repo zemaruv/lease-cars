@@ -1,0 +1,22 @@
+# Системные файлы Windows / Mac
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Настройки VS Code
+.vscode/
+
+# Node.js (если есть)
+node_modules/
+
+# Python (если есть)
+__pycache__/
+*.pyc
+
+# Логи
+*.log
+
+# Сборки / временные файлы
+dist/
+build/
+*.tmp
